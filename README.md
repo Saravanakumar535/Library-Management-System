@@ -1,5 +1,4 @@
 # Library-Management-System
-// package library_management_sytem;
 import java.util.*;
 class Book {
 	String title;
@@ -19,8 +18,6 @@ class Book {
 	}
 	
 }
-// package library_management_sytem;
-// import java.util.ArrayList;
 class Library {
 	ArrayList<Book> books=new ArrayList<Book>();
 	public void addbook(String name)
@@ -73,8 +70,7 @@ class Library {
 	}
 	
 }
-// package library_management_sytem;
-// import java.util.*;
+
 public class Main {
 
 	public static void main(String[] args) {
